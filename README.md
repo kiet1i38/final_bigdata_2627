@@ -10,7 +10,7 @@
 - Chau Pham Tuan Kiet - 523K0011
 - Nguyen Bao Long - 523K0014
 - Nguyen Ba Hung - 523K0006
-- Giảng viên: Nguyen Thanh An
+- Giảng viên: Hoang Anh
 
 ## Tóm tắt project
 
