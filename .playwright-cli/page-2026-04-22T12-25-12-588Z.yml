@@ -1,0 +1,988 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - link:
+        - /url: "#notebook-main"
+    - generic:
+      - banner:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - link:
+                  - /url: https://drive.google.com/drive/search?q=owner%3Ame%20(type%3Aapplication%2Fvnd.google.colaboratory%20%7C%7C%20type%3Aapplication%2Fvnd.google.colab)&authuser=0
+                  - generic:
+                    - img
+            - generic:
+              - generic:
+                - textbox [disabled]: Welcome To Colab
+                - generic: Welcome To Colab_
+              - generic:
+                - generic:
+                  - menubar:
+                    - button:
+                      - generic:
+                        - generic:
+                          - generic: File
+                    - button:
+                      - generic:
+                        - generic:
+                          - generic: Edit
+                    - button:
+                      - generic:
+                        - generic:
+                          - generic: View
+                    - button:
+                      - generic:
+                        - generic:
+                          - generic: Insert
+                    - button:
+                      - generic:
+                        - generic:
+                          - generic: Runtime
+                    - button:
+                      - generic:
+                        - generic:
+                          - generic: Tools
+                    - button:
+                      - generic:
+                        - generic:
+                          - generic: Help
+            - generic:
+              - generic:
+                - button
+              - generic:
+                - button
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - link:
+                          - /url: https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fcolab.research.google.com%2F&ec=GAZAqQM
+                          - text: Sign in
+    - generic:
+      - generic:
+        - generic:
+          - button:
+            - generic:
+              - generic: Show command palette Ctrl+Shift+P
+      - generic:
+        - generic:
+          - generic:
+            - button:
+              - generic:
+                - generic: Insert code cell below Ctrl+M B
+      - generic:
+        - generic:
+          - button:
+            - generic:
+              - generic: Add text cell
+      - generic:
+        - generic:
+          - generic:
+            - button:
+              - generic:
+                - generic: Run all cells in notebook
+        - generic:
+          - button
+      - generic:
+        - generic:
+          - generic:
+            - button
+      - generic:
+        - generic:
+          - generic:
+            - button:
+              - generic:
+                - generic: Connect to a new runtime
+        - generic:
+          - button
+      - generic:
+        - button
+    - generic:
+      - complementary:
+        - toolbar:
+          - generic:
+            - generic:
+              - generic:
+                - button [pressed]
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=3]: Table of contents
+              - generic:
+                - button
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - link:
+                            - /url: "#scrollTo=Welcome_to_Colab_"
+                            - text: Welcome to Colab!
+                        - generic:
+                          - generic:
+                            - button
+                          - generic:
+                            - generic:
+                              - button
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: "#scrollTo=Google_Colab_is_available_in_VS_Code_"
+                                - text: Google Colab is available in VS Code!
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - button
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: "#scrollTo=_Free_Pro_Plan_for_Gemini_Colab_for_US_College_Students_"
+                                - text: 🎁 Free Pro Plan for Gemini & Colab for US College Students 🎓
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - button
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: "#scrollTo=Access_popular_AI_models_via_Google_Colab_AI_Without_an_API_Key"
+                                - text: Access popular AI models via Google-Colab-AI Without an API Key
+                            - generic:
+                              - generic:
+                                - button
+                              - generic:
+                                - generic:
+                                  - button
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: "#scrollTo=Explore_the_Gemini_API"
+                                - text: Explore the Gemini API
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - button
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: "#scrollTo=Getting_started"
+                                - generic: Getting started
+                            - generic:
+                              - generic:
+                                - button
+                              - generic:
+                                - generic:
+                                  - button
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: "#scrollTo=Data_science"
+                                - text: Data science
+                            - generic:
+                              - generic:
+                                - button
+                              - generic:
+                                - generic:
+                                  - button
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: "#scrollTo=Machine_learning"
+                                - text: Machine learning
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - button
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: "#scrollTo=More_Resources"
+                                - text: More Resources
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - button
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link:
+                                    - /url: "#scrollTo=Featured_examples"
+                                    - text: Featured examples
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - button
+                  - generic:
+                    - button
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - main:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - button [disabled]
+                                        - generic:
+                                          - button
+                                        - generic:
+                                          - button
+                                        - generic:
+                                          - button
+                                        - generic:
+                                          - button
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button
+                                                    - heading [level=1]: Welcome to Colab!
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - heading [level=2]: Google Colab is available in VS Code!
+                                                  - paragraph:
+                                                    - img
+                                                  - paragraph:
+                                                    - text: Try the new
+                                                    - link:
+                                                      - /url: https://www.google.com/url?q=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DGoogle.colab
+                                                      - text: Google Colab extension
+                                                    - text: "for Visual Studio Code. You can get up and running in just a few clicks:"
+                                                  - list:
+                                                    - listitem:
+                                                      - text: In VS Code, open the
+                                                      - emphasis:
+                                                        - strong: Extensions
+                                                      - text: view and search for 'Google Colab' to install.
+                                                    - listitem:
+                                                      - text: Open the kernel selector by creating or opening any
+                                                      - code: .ipynb
+                                                      - text: notebook file in your local workspace and either running a cell or clicking the
+                                                      - emphasis:
+                                                        - strong: Select Kernel
+                                                      - text: button in the top right.
+                                                    - listitem:
+                                                      - text: Click
+                                                      - emphasis:
+                                                        - strong: Colab
+                                                      - text: and then select your desired runtime, sign in with your Google account, and you're all set!
+                                                  - paragraph:
+                                                    - text: See more details in our
+                                                    - link:
+                                                      - /url: https://www.google.com/url?q=https%3A%2F%2Fdevelopers.googleblog.com%2Fgoogle-colab-is-coming-to-vs-code
+                                                      - text: announcement blog here
+                                                    - text: .
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - heading [level=2]: 🎁 Free Pro Plan for Gemini & Colab for US College Students 🎓
+                                                  - paragraph: Get more access to our most accurate model Gemini 3 Pro for advanced coding, complex research, and innovative projects, backed by Colab’s dedicated high-compute resources for data science and machine learning.
+                                                  - paragraph:
+                                                    - text: Get the Gemini free offer at
+                                                    - link:
+                                                      - /url: https://www.google.com/url?q=https%3A%2F%2Fgemini.google%2Fstudents%3Futm_source%3Dcolab%26utm_medium%3Dbanner%26utm_campaign%3Dstudents_xpa_us-colab-banner
+                                                      - text: gemini.google/students
+                                                    - text: . Get the Colab free offer at
+                                                    - link:
+                                                      - /url: https://colab.research.google.com/signup
+                                                      - text: colab.research.google.com/signup
+                                                    - text: . Terms Apply.
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button
+                                                    - heading [level=2]: Access popular AI models via Google-Colab-AI Without an API Key
+                                                  - paragraph:
+                                                    - text: All users have access to most popular LLMs via the
+                                                    - code: google-colab-ai
+                                                    - text: Python library, and paid users have access to a wider selection of models. For more details, refer to the
+                                                    - link:
+                                                      - /url: https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/Getting_started_with_google_colab_ai.ipynb
+                                                      - text: getting started with google colab ai
+                                                    - text: .
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button:
+                                                        - generic:
+                                                          - img
+                                                      - generic:
+                                                        - generic: "[ ]"
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic: from google.colab import ai
+                                                    - generic: response = ai.generate_text("What is the capital of France?")
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button
+                                                    - heading [level=2]: Explore the Gemini API
+                                                  - paragraph: The Gemini API gives you access to Gemini models created by Google DeepMind. Gemini models are built from the ground up to be multimodal, so you can reason seamlessly across text, images, code, and audio.
+                                                  - paragraph:
+                                                    - strong: How to get started?
+                                                  - list:
+                                                    - listitem:
+                                                      - text: Go to
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Faistudio.google.com%2F
+                                                        - text: Google AI Studio
+                                                      - text: and log in with your Google account.
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Faistudio.google.com%2Fapp%2Fapikey
+                                                        - text: Create an API key
+                                                      - text: .
+                                                    - listitem:
+                                                      - text: Use a quickstart for
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb
+                                                        - text: Python
+                                                      - text: ", or call the REST API using"
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/rest/Prompting_REST.ipynb
+                                                        - text: curl
+                                                      - text: .
+                                                  - paragraph:
+                                                    - strong: Discover Gemini's advanced capabilities
+                                                  - list:
+                                                    - listitem:
+                                                      - text: Play with Gemini
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Image-out.ipynb
+                                                        - text: multimodal outputs
+                                                      - text: ", mixing text and images in an iterative way."
+                                                    - listitem:
+                                                      - text: Discover the
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started_LiveAPI.ipynb
+                                                        - text: multimodal Live API
+                                                      - text: (demo
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Faistudio.google.com%2Flive
+                                                        - text: here
+                                                      - text: ).
+                                                    - listitem:
+                                                      - text: Learn how to
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Spatial_understanding.ipynb%22
+                                                        - text: analyze images and detect items in your pictures
+                                                      - text: using Gemini (bonus, there's a
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/examples/Spatial_understanding_3d.ipynb
+                                                        - text: 3D version
+                                                      - text: as well!).
+                                                    - listitem:
+                                                      - text: Unlock the power of
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started_thinking.ipynb
+                                                        - text: Gemini thinking model
+                                                      - text: ", capable of solving complex task with its inner thoughts."
+                                                  - paragraph:
+                                                    - strong: Explore complex use cases
+                                                  - list:
+                                                    - listitem:
+                                                      - text: Use
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/examples/Search_grounding_for_research_report.ipynb
+                                                        - text: Gemini grounding capabilities
+                                                      - text: to create a report on a company based on what the model can find on internet.
+                                                    - listitem:
+                                                      - text: Extract
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/examples/Pdf_structured_outputs_on_invoices_and_forms.ipynb
+                                                        - text: invoices and form data from PDF
+                                                      - text: in a structured way.
+                                                    - listitem:
+                                                      - text: Create
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/examples/Book_illustration.ipynb
+                                                        - text: illustrations based on a whole book
+                                                      - text: using Gemini large context window and Imagen.
+                                                  - paragraph:
+                                                    - text: To learn more, check out the
+                                                    - link:
+                                                      - /url: https://github.com/google-gemini/cookbook
+                                                      - text: Gemini cookbook
+                                                    - text: or visit the
+                                                    - link:
+                                                      - /url: https://www.google.com/url?q=https%3A%2F%2Fai.google.dev%2Fdocs%2F
+                                                      - text: Gemini API documentation
+                                                    - text: .
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - text: Colab now has AI features powered by
+                                                    - link:
+                                                      - /url: https://www.google.com/url?q=https%3A%2F%2Fgemini.google.com
+                                                      - text: Gemini
+                                                    - text: . The video below provides information on how to use these features, whether you're new to Python, or a seasoned veteran.
+                                                  - generic:
+                                                    - link:
+                                                      - /url: https://www.youtube.com/watch?v=V7RXyqFUR98
+                                                      - img
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - heading [level=2]: What is Colab?
+                                                  - paragraph: Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
+                                                  - list:
+                                                    - listitem: Zero configuration required
+                                                    - listitem: Access to GPUs free of charge
+                                                    - listitem: Easy sharing
+                                                  - paragraph:
+                                                    - text: Whether you're a
+                                                    - strong: student
+                                                    - text: ", a"
+                                                    - strong: data scientist
+                                                    - text: or an
+                                                    - strong: AI researcher
+                                                    - text: ", Colab can make your work easier. Watch"
+                                                    - link:
+                                                      - /url: https://www.youtube.com/watch?v=inN8seMm7UI
+                                                      - text: Introduction to Colab
+                                                    - text: or
+                                                    - link:
+                                                      - /url: https://www.youtube.com/watch?v=rNgswRZ2C1Y
+                                                      - text: Colab Features You May Have Missed
+                                                    - text: to learn more, or just get started below!
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - button
+                                                      - heading [level=2]:
+                                                        - strong: Getting started
+                                                  - paragraph:
+                                                    - text: The document you are reading is not a static web page, but an interactive environment called a
+                                                    - strong: Colab notebook
+                                                    - text: that lets you write and execute code.
+                                                  - paragraph:
+                                                    - text: For example, here is a
+                                                    - strong: code cell
+                                                    - text: "with a short Python script that computes a value, stores it in a variable, and prints the result:"
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button:
+                                                        - generic:
+                                                          - img
+                                                      - generic:
+                                                        - generic: "[ ]"
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic: seconds_in_a_day = 24 * 60 * 60
+                                                    - generic: seconds_in_a_day
+                                            - region:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button
+                                                    - generic:
+                                                      - button
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - group:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic: "86400"
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph: To execute the code in the above cell, select it with a click and then either press the play button to the left of the code, or use the keyboard shortcut "Command/Ctrl+Enter". To edit the code, just click the cell and start editing.
+                                                  - paragraph: "Variables that you define in one cell can later be used in other cells:"
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button:
+                                                        - generic:
+                                                          - img
+                                                      - generic:
+                                                        - generic: "[ ]"
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic: seconds_in_a_week = 7 * seconds_in_a_day
+                                                    - generic: seconds_in_a_week
+                                            - region:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button
+                                                    - generic:
+                                                      - button
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - group:
+                                                          - generic:
+                                                            - generic:
+                                                              - generic: "604800"
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - text: Colab notebooks allow you to combine
+                                                    - strong: executable code
+                                                    - text: and
+                                                    - strong: rich text
+                                                    - text: in a single document, along with
+                                                    - strong: images
+                                                    - text: ","
+                                                    - strong: HTML
+                                                    - text: ","
+                                                    - strong: LaTeX
+                                                    - text: and more. When you create your own Colab notebooks, they are stored in your Google Drive account. You can easily share your Colab notebooks with co-workers or friends, allowing them to comment on your notebooks or even edit them. To learn more, see
+                                                    - link:
+                                                      - /url: /notebooks/basic_features_overview.ipynb
+                                                      - text: Overview of Colab
+                                                    - text: ". To create a new Colab notebook you can use the File menu above, or use the following link:"
+                                                    - link:
+                                                      - /url: http://colab.research.google.com#create=true
+                                                      - text: create a new Colab notebook
+                                                    - text: .
+                                                  - paragraph:
+                                                    - text: Colab notebooks are Jupyter notebooks that are hosted by Colab. To learn more about the Jupyter project, see
+                                                    - link:
+                                                      - /url: https://www.jupyter.org
+                                                      - text: jupyter.org
+                                                    - text: .
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - button
+                                                      - heading [level=2]: Data science
+                                                  - paragraph:
+                                                    - text: With Colab you can harness the full power of popular Python libraries to analyze and visualize data. The code cell below uses
+                                                    - strong: numpy
+                                                    - text: to generate some random data, and uses
+                                                    - strong: matplotlib
+                                                    - text: to visualize it. To edit the code, just click the cell and start editing.
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - text: You can import your own data into Colab notebooks from your Google Drive account, including from spreadsheets, as well as from Github and many other sources. To learn more about importing data, and how Colab can be used for data science, see the links below under
+                                                    - link:
+                                                      - /url: "#working-with-data"
+                                                      - text: Working with Data
+                                                    - text: .
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button:
+                                                        - generic:
+                                                          - img
+                                                      - generic:
+                                                        - generic: "[ ]"
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic: import numpy as np
+                                                    - generic: import IPython.display as display
+                                                    - generic: from matplotlib import pyplot as plt
+                                                    - generic: import io
+                                                    - generic: import base64
+                                                    - generic: ys = 200 + np.random.randn(100)
+                                                    - generic: x = [x for x in range(len(ys))]
+                                                    - generic: fig = plt.figure(figsize=(4, 3), facecolor='w')
+                                                    - generic: plt.plot(x, ys, '-')
+                                                    - generic: plt.fill_between(x, ys, 195, where=(ys > 195), facecolor='g', alpha=0.6)
+                                                    - generic: plt.title("Sample Visualization", fontsize=10)
+                                                    - generic: data = io.BytesIO()
+                                                    - generic: plt.savefig(data)
+                                                    - generic: "image = F\"data:image/png;base64,{base64.b64encode(data.getvalue()).decode()}\""
+                                                    - generic: alt = "Sample Visualization"
+                                                    - generic: "display.display(display.Markdown(F\"\"\"![{alt}]({image})\"\"\"))"
+                                                    - generic: plt.close(fig)
+                                            - region:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - button
+                                                    - generic:
+                                                      - button
+                                                - iframe [ref=e762]:
+                                                  - paragraph [ref=f5e7]:
+                                                    - img "Sample Visualization" [ref=f5e8]
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - text: Colab notebooks execute code on Google's cloud servers, meaning you can leverage the power of Google hardware, including
+                                                    - link:
+                                                      - /url: "#using-accelerated-hardware"
+                                                      - text: GPUs and TPUs
+                                                    - text: ", regardless of the power of your machine. All you need is a browser."
+                                                  - paragraph:
+                                                    - text: For example, if you find yourself waiting for
+                                                    - strong: pandas
+                                                    - text: code to finish running and want to go faster, you can switch to a GPU Runtime and use libraries like
+                                                    - link:
+                                                      - /url: https://www.google.com/url?q=https%3A%2F%2Frapids.ai%2Fcudf-pandas
+                                                      - text: RAPIDS cuDF
+                                                    - text: that provide zero-code-change acceleration.
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph:
+                                                    - text: To learn more about accelerating pandas on Colab, see the
+                                                    - link:
+                                                      - /url: https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_colab_demo.ipynb
+                                                      - text: 10 minute guide
+                                                    - text: or
+                                                    - link:
+                                                      - /url: https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_stocks_demo.ipynb
+                                                      - text: US stock market data analysis demo
+                                                    - text: .
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - button
+                                                      - heading [level=2]: Machine learning
+                                                  - paragraph:
+                                                    - text: With Colab you can import an image dataset, train an image classifier on it, and evaluate the model, all in just
+                                                    - link:
+                                                      - /url: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb
+                                                      - text: a few lines of code
+                                                    - text: .
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - paragraph: "Colab is used extensively in the machine learning community with applications including:"
+                                                  - list:
+                                                    - listitem: Getting started with TensorFlow
+                                                    - listitem: Developing and training neural networks
+                                                    - listitem: Experimenting with TPUs
+                                                    - listitem: Disseminating AI research
+                                                    - listitem: Creating tutorials
+                                                  - paragraph:
+                                                    - text: To see sample Colab notebooks that demonstrate machine learning applications, see the
+                                                    - link:
+                                                      - /url: "#machine-learning-examples"
+                                                      - text: machine learning examples
+                                                    - text: below.
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - generic:
+                                                        - button
+                                                      - heading [level=2]: More Resources
+                                                    - heading [level=3]: Working with Notebooks in Colab
+                                                  - list:
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: /notebooks/basic_features_overview.ipynb
+                                                        - text: Overview of Colab
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: /notebooks/markdown_guide.ipynb
+                                                        - text: Guide to Markdown
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: /notebooks/snippets/importing_libraries.ipynb
+                                                        - text: Importing libraries and installing dependencies
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb
+                                                        - text: Saving and loading notebooks in GitHub
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: /notebooks/forms.ipynb
+                                                        - text: Interactive forms
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: /notebooks/widgets.ipynb
+                                                        - text: Interactive widgets
+                                                  - generic:
+                                                    - heading [level=3]: Working with Data
+                                                  - list:
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: /notebooks/io.ipynb
+                                                        - text: "Loading data: Drive, Sheets, and Google Cloud Storage"
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: /notebooks/charts.ipynb
+                                                        - text: "Charts: visualizing data"
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: /notebooks/bigquery.ipynb
+                                                        - text: Getting started with BigQuery
+                                                  - generic:
+                                                    - heading [level=3]: Machine Learning
+                                                    - generic:
+                                                      - paragraph:
+                                                        - text: These are a few of the notebooks related to Machine Learning, including Google's online Machine Learning course. See the
+                                                        - link:
+                                                          - /url: https://developers.google.com/machine-learning/crash-course/
+                                                          - text: full course website
+                                                        - text: for more.
+                                                      - list:
+                                                        - listitem:
+                                                          - link:
+                                                            - /url: https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb
+                                                            - text: Intro to Pandas DataFrame
+                                                        - listitem:
+                                                          - link:
+                                                            - /url: https://www.google.com/url?q=https%3A%2F%2Fnvda.ws%2Frapids-cudf
+                                                            - text: Intro to RAPIDS cuDF to accelerate pandas
+                                                        - listitem:
+                                                          - link:
+                                                            - /url: https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cuml_sklearn_colab_demo.ipynb
+                                                            - text: Getting Started with cuML's accelerator mode
+                                                      - generic:
+                                                        - heading [level=3]: Using Accelerated Hardware
+                                                      - list:
+                                                        - listitem:
+                                                          - link:
+                                                            - /url: https://colab.research.google.com/github/google/flax/blob/main/docs_nnx/mnist_tutorial.ipynb
+                                                            - text: Train a CNN to classify handwritten digits on the MNIST dataset using Flax NNX API
+                                                        - listitem:
+                                                          - link:
+                                                            - /url: https://colab.research.google.com/github/jax-ml/jax-ai-stack/blob/main/docs/source/JAX_Vision_transformer.ipynb
+                                                            - text: Train a Vision Transformer (ViT) for image classification with JAX
+                                                        - listitem:
+                                                          - link:
+                                                            - /url: https://colab.research.google.com/github/jax-ml/jax-ai-stack/blob/main/docs/source/JAX_transformer_text_classification.ipynb
+                                                            - text: Text classification with a transformer language model using JAX
+                                    - region:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - generic:
+                                                - generic:
+                                                  - generic:
+                                                    - generic:
+                                                      - heading [level=3]: Featured examples
+                                                  - list:
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fdocs.jaxstack.ai%2Fen%2Flatest%2FJAX_for_LLM_pretraining.html
+                                                        - text: Train a miniGPT language model with JAX AI Stack
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://github.com/google/tunix/blob/main/examples/qlora_gemma.ipynb
+                                                        - text: LoRA/QLoRA finetuning for LLM using Tunix
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fkeras.io%2Fexamples%2Fkeras_recipes%2Fparameter_efficient_finetuning_of_gemma_with_lora_and_qlora%2F
+                                                        - text: Parameter-efficient fine-tuning of Gemma with LoRA and QLoRA
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fkeras.io%2Fkeras_hub%2Fguides%2Fhugging_face_keras_integration%2F
+                                                        - text: Loading Hugging Face Transformers Checkpoints
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fkeras.io%2Fguides%2Fint8_quantization_in_keras%2F
+                                                        - text: 8-bit Integer Quantization in Keras
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fkeras.io%2Fexamples%2Fkeras_recipes%2Ffloat8_training_and_inference_with_transformer%2F
+                                                        - text: Float8 training and inference with a simple Transformer model
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fkeras.io%2Fkeras_hub%2Fguides%2Ftransformer_pretraining%2F
+                                                        - text: Pretraining a Transformer from scratch with KerasHub
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fkeras.io%2Fexamples%2Fvision%2Fmnist_convnet%2F
+                                                        - text: Simple MNIST convnet
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fkeras.io%2Fexamples%2Fvision%2Fimage_classification_from_scratch%2F
+                                                        - text: Image classification from scratch using Keras 3
+                                                    - listitem:
+                                                      - link:
+                                                        - /url: https://www.google.com/url?q=https%3A%2F%2Fkeras.io%2Fkeras_hub%2Fguides%2Fclassification_with_keras_hub%2F
+                                                        - text: Image Classification with KerasHub
+                            - generic:
+                              - link:
+                                - /url: /signup?utm_source=footer&utm_medium=link&utm_campaign=footer_links
+                                - text: Colab paid products
+                              - text: "-"
+                              - link:
+                                - /url: /cancel-subscription
+                                - text: Cancel contracts here
+    - region:
+      - generic:
+        - generic:
+          - button
+        - generic:
+          - button
+  - alertdialog "Google sign-in required" [ref=e965]:
+    - generic [ref=e966]:
+      - heading "Google sign-in required" [level=2] [ref=e967]
+      - generic [ref=e970]: You must be logged in with a Google Account to continue.
+      - contentinfo [ref=e971]:
+        - button "Cancel" [ref=e975] [cursor=pointer]:
+          - generic [ref=e977]:
+            - generic: Cancel
+        - button "Sign in" [ref=e981] [cursor=pointer]:
+          - generic [ref=e983]:
+            - generic: Sign in
